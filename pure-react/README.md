@@ -28,3 +28,10 @@
       - npm run lint
       - npm run format
    4. parcel : webpack말고 이걸루 해봄(https://parceljs.org/) -> npm install -D parcel-bundler
+
+4. JSX: Just translte html -> javascript code
+이렇게 하면 개발자가좀더 행복해.
+
+- npm install -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react 
+- https://btholt.github.io/complete-intro-to-react-v5/jsx
+  
