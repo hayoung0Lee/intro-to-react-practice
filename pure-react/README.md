@@ -27,3 +27,4 @@
       - eslint 익스텐션: eslint 바로 동작함!! `npm install -D eslint eslint-config-prettier`
       - npm run lint
       - npm run format
+   4. parcel : webpack말고 이걸루 해봄(https://parceljs.org/) -> npm install -D parcel-bundler
